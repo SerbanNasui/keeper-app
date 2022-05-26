@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://LowGuns:LowGuns@keeper.4h3sj.mongodb.net/?retryWrites=true&w=majority",
+    "jwtSecret": "secret"
+}
